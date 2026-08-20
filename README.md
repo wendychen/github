@@ -19,7 +19,7 @@ It often includes:
 - Setup instructions
 - Links to further docs/contribution guidelines
 
-REF: (Learn Git and GitHub)[https://roadmap.sh/git-github]
+REF: [Learn Git and GitHub](https://roadmap.sh/git-github)
 
 ## CITATION files
 
