@@ -1,5 +1,11 @@
 # Git/Github
 
+## Conventional Commits
+
+[Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)
+
+這份文件講的是`git commit`的撰寫規範, 方便團隊使用同一個標準溝通.
+
 ## Project Readme
 
 When visiting a repository, `README.md` is the first file most people see.
