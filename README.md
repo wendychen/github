@@ -5,6 +5,8 @@
 [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)
 
 這份文件講的是`git commit`的撰寫規範, 方便團隊使用同一個標準溝通.
+我在Google Notebook裡面有請AI將這份網頁文件做中文摘要,
+標題是: Conventional Commits Specification and Standard Guidelines.
 
 ## Project Readme
 
